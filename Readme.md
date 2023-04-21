@@ -1,6 +1,6 @@
 <h1 align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2336BCF7&size=27&center=true&vCenter=true&width=500&height=40&lines=Hello%2C+There!+.+.+.;Glad+to+see+you+here+%F0%9F%98%8A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2336BCF7&size=27&center=true&vCenter=true&width=500&height=40&lines=Welcome%2C+!+.+.+.;Glad+to+see+you+here+%F0%9F%98%8A)](https://git.io/typing-svg)
  
 </h1>
 
@@ -37,10 +37,10 @@
 
 [![C Badge](https://img.shields.io/badge/-Language-A8B9CC?style=for-the-badge&labelColor=black&logo=c&logoColor=A8B9CC)](#)
 [![Java Badge](https://img.shields.io/badge/-Java-507E9C?style=for-the-badge&labelColor=black&logo=Java&logoColor=E06C00)](#)
-[![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=F6F5F5&logo=python&logoColor=3776AB)](#)
+<!-- [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=F6F5F5&logo=python&logoColor=3776AB)](#) -->
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E)](#)
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
-[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
+<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) -->
+<!-- [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) -->
 [![Expressjs Badge](https://img.shields.io/badge/-Expressjs-000000?style=for-the-badge&labelColor=F6F5F5&logo=express&logoColor=000000)](#)
 [![MongoDB Badge](https://img.shields.io/badge/-Mongodb-47A248?style=for-the-badge&labelColor=black&logo=Mongodb&logoColor=47A248)](#)
 [![Firebase Badge](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&labelColor=black&logo=Firebase&logoColor=FFCA28)](#)
@@ -74,7 +74,7 @@
 
 <br/>
 
-<a href="https://github.com/j-naima/github-readme-activity-graph"><img alt="Partho Majumdar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=j-naima&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<!-- <a href="https://github.com/j-naima/github-readme-activity-graph"><img alt="Partho Majumdar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=j-naima&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 
 <br/>
 
