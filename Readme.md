@@ -15,7 +15,7 @@
 
 <!-- - 🔭 I’m currently working on ** ** -->
 
-- 💡 I 𝘭̶𝘪̶𝘬̶𝘦̶ 𝘵̶𝘰̶ love to explore new **Technologies** and enjoy **Programming**
+- 💡 I 𝘭̶𝘪̶𝘬̶𝘦̶ 𝘵̶𝘰̶  love to explore new **Technologies** and enjoy **Programming**
 
 - 🪐 Highly Passionate about **Machine Learning**
 
