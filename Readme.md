@@ -6,16 +6,16 @@
 
 <!-- <h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px">, I'm Naima</h1> -->
 
-<h1 align="center">Hi! I am Naima ^_^ </h1>
+<h1 align="center">Hi! I am Naima <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40"> </h1>
 
 <h3 align="center"> Interested in <b>Technology</b> and <b> Astronomical </b> world..</h3> <br />
 <a href="https://github.com/j-naima/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=j-naima"></a>
 
-## 🙋‍♂️ <b>About Me</b>
+## 🙋‍♀️ <b>About Me</b>
 
 <!-- - 🔭 I’m currently working on ** ** -->
 
-- 💡 I love to explore new **Technologies** and enjoy **Programming**
+- 💡 I 𝘭̶𝘪̶𝘬̶𝘦̶ 𝘵̶𝘰̶ love to explore new **Technologies** and enjoy **Programming**
 
 - 🪐 Highly Passionate about **Machine Learning**
 
@@ -37,15 +37,15 @@
 
 [![C Badge](https://img.shields.io/badge/-Language-A8B9CC?style=for-the-badge&labelColor=black&logo=c&logoColor=A8B9CC)](#)
 [![Java Badge](https://img.shields.io/badge/-Java-507E9C?style=for-the-badge&labelColor=black&logo=Java&logoColor=E06C00)](#)
-<!-- [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=F6F5F5&logo=python&logoColor=3776AB)](#) -->
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E)](#)
+<!-- [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=F6F5F5&logo=python&logoColor=3776AB)](#) -->
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) -->
 <!-- [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) -->
 [![Expressjs Badge](https://img.shields.io/badge/-Expressjs-000000?style=for-the-badge&labelColor=F6F5F5&logo=express&logoColor=000000)](#)
 [![MongoDB Badge](https://img.shields.io/badge/-Mongodb-47A248?style=for-the-badge&labelColor=black&logo=Mongodb&logoColor=47A248)](#)
 [![Firebase Badge](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&labelColor=black&logo=Firebase&logoColor=FFCA28)](#)
 
-## <b> 🛠️ Tools</b>
+## <b> 🌸 Tools</b>
 
 [![Intellij Idea Badge](https://img.shields.io/badge/-Intellij%20Idea-000000?style=for-the-badge&labelColor=F6F5F5&logo=intellijidea&logoColor=000000)](#)
 [![PyCharm Badge](https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&labelColor=F6F5F5&logo=pycharm&logoColor=000000)](#)
@@ -89,7 +89,10 @@
 
 <!-- [![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter&logoColor=1C9DEB)](https://twitter.com/ParthoMajumdar5) -->
 <!-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/j-naima-7a0504216) -->
-[![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/naimakhan.fariha)
 <!-- [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/ig.partho/) -->
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/jannatul-naima-720a44236/)
+<a href="mailto:jnaima352@gmail.com">![jnaima352@gmail.com](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=Gmail&logoColor=EA4335)
+<!-- [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/naimakhan.fariha) -->
+<!-- [![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter&logoColor=1C9DEB)](https://twitter.com/ParthoMajumdar5) -->
 
 </p>
