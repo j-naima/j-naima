@@ -17,7 +17,7 @@
 
 - 💡 I 𝘭̶𝘪̶𝘬̶𝘦̶ 𝘵̶𝘰̶  love to explore new **Technologies** and enjoy **Programming**
 
-- 🪐 Highly Passionate about **Machine Learning**
+- 🪐 Highly Passionate about **Aerospace science**
 
 <!-- - 💻 Most used line of code **System.out.println()** -->
 
@@ -29,7 +29,7 @@
 
 <!-- - 📫 How to reach me : **[Twitter](https://twitter.com/ParthoMajumdar5)** -->
 
-- 🤞 2023 Goals : Contribute more to **Competitive Programming**
+- 🤞 2024 Goals : Contribute more to **Competitive Programming**
 
 ## 🌩️ <b>Tech Stack</b>
 
@@ -92,7 +92,7 @@
 <!-- [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/ig.partho/) -->
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/jannatul-naima-720a44236/)
 <a href="mailto:jnaima352@gmail.com">![jnaima352@gmail.com](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=Gmail&logoColor=EA4335)
-<!-- [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/naimakhan.fariha) -->
+ [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/naimakhan.fariha)
 <!-- [![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter&logoColor=1C9DEB)](https://twitter.com/ParthoMajumdar5) -->
 
 </p>
