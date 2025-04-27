@@ -29,7 +29,7 @@
 
 <!-- - 📫 How to reach me : **[Twitter](https://twitter.com/ParthoMajumdar5)** -->
 
-- 🤞 2024 Goals : Contribute more to **Competitive Programming**
+- 🤞 2025 Goals : Contribute more to **Competitive Programming**
 
 ## 🌩️ <b>Tech Stack</b>
 
