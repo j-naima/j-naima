@@ -21,7 +21,7 @@
 
 <!-- - 💻 Most used line of code **System.out.println()** -->
 
-- 🌱 I’m currently learning **Data Structure and Algorithms**
+- 🌱 I’m currently learning **Database Management System**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
