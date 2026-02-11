@@ -21,7 +21,7 @@
 
 <!-- - 💻 Most used line of code **System.out.println()** -->
 
-- 🌱 I’m currently learning **Database Management System**
+- 🌱 I’m currently learning **Software Engineering**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -65,7 +65,7 @@
 
 ## 📊 <b>My Github Analytics</b>
 
-<a href="https://github.com/j-naima/github-readme-stats"><img alt="Naima's stars" src="https://github-readme-stats.vercel.app/api?username=j-naima&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> &nbsp; &nbsp; &nbsp;
+<a href="https://github.com/j-naima/github-readme-stats"><img alt="" src="https://github-readme-stats.vercel.app/api?username=j-naima&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> &nbsp; &nbsp; &nbsp;
 <a href="https://github.com/j-naima/github-readme-stats"><img alt="Naima's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-naima&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 <br/>
