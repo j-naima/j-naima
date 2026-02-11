@@ -29,7 +29,7 @@
 
 <!-- - 📫 How to reach me : **[Twitter](https://twitter.com/ParthoMajumdar5)** -->
 
-- 🤞 2025 Goals : Contribute more to **Competitive Programming**
+- 🤞 2026 Goals : Contribute more to **Competitive Programming**
 
 ## 🌩️ <b>Tech Stack</b>
 
@@ -65,8 +65,8 @@
 
 ## 📊 <b>My Github Analytics</b>
 
-<a href="https://github.com/j-naima/github-readme-stats"><img alt="Partho Majumdar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=j-naima&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> &nbsp; &nbsp; &nbsp;
-<a href="https://github.com/j-naima/github-readme-stats"><img alt="Partho Majumdar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-naima&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/j-naima/github-readme-stats"><img alt="Naima's stars" src="https://github-readme-stats.vercel.app/api?username=j-naima&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> &nbsp; &nbsp; &nbsp;
+<a href="https://github.com/j-naima/github-readme-stats"><img alt="Naima's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-naima&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 <br/>
 
